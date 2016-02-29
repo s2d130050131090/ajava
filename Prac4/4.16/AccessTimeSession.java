@@ -33,7 +33,7 @@ public class AccessTimeSession extends HttpServlet{
 		out.println("</br><b>Session creation time: </b><u>"+createTime+"</u>");
 		out.println("</br><b>Current access time: </b><u>"+currentAccessTime+"</u>");
 		out.println("</br><b>Session last access time:</b><u>"+ lastAccessTime+"</u>");
-		out.println("130050131042");
+		out.println("130050131090");
 	}
 	
 	public void doPost(HttpServletRequest request, HttpServletResponse response) 
