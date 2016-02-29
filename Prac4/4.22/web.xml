@@ -1,0 +1,9 @@
+<servlet>
+   <servlet-name>RetrieveData</servlet-name>
+   <servlet-class>RetrieveData</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>RetrieveData</servlet-name>
+   <url-pattern>/RetrieveData</url-pattern>
+</servlet-mapping>
